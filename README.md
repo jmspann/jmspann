@@ -1,4 +1,8 @@
-<h1>Hello, I'm Josh! <br/><a href="https://github.com/jmspann">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshua-spann/">Engineer</a>
+<h1>Hello, I'm Josh! <br/><a href="https://github.com/jmspann">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshua-spann/">Engineer</a></h1>
+  
+<p>As a cybersecurity engineer, I specialize in fortifying digital infrastructures against evolving threats by implementing proactive security measures and leveraging cutting-edge technologies. With a collaborative approach and a commitment to continuous learning, I aim to empower organizations to navigate the digital landscape securely and confidently.</p>
+
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
