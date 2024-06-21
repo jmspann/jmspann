@@ -1,4 +1,4 @@
-<h1>Hello, I'm Josh! <br/><a href="https://github.com/jmspann">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Engineer</a>
+<h1>Hello, I'm Josh! <br/><a href="https://github.com/jmspann">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshua-spann/">Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -20,7 +20,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/joshua-spann/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
