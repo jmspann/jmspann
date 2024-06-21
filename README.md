@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Conducting a Security Audit]([https://github.com/jmspann/LABURL1](https://github.com/jmspann/SecurityAuditLab/tree/main))
+- [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
 
 <h2>📄 Certifications</h2>
