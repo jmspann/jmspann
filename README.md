@@ -1,4 +1,4 @@
-<h1>Hello, I'm Josh!
+<h1>Hello, I'm Josh! <br/><a href="https://github.com/jmspann">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Engineer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
