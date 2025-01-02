@@ -6,8 +6,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
-- [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
 - [Basic Linux Commands]
 - [SQL Queries]
 - [Filtering SQL Queries]
@@ -15,6 +13,8 @@
 - [Examine Logs in Suricata]
 - [Capture and Analyze Packets in Wireshark]
 - [Performing a Query in Splunk & Chronicle]
+- [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
+- [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
 
 <h2>📄 Certifications</h2>
 
