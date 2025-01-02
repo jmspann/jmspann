@@ -8,10 +8,17 @@
 
 - [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
+- [Basic Linux Commands]
+- [SQL Queries]
+- [Filtering SQL Queries]
+- [Encryption Hashing and Decryption]
+- [Examine Logs in Suricata]
+- [Capture and Analyze Packets in Wireshark]
+- [Performing a Query in Splunk & Chronicle]
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Certificate](https://certificateurl)
+- [Google Cybersecurity Certificate](https://coursera.org/share/21ea2f8cd5142d93884a32e4d15386dd)
 
 
 <h2> 🤳 Connect with me:</h2>
