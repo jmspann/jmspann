@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Basic Linux Commands]
+- [Basic Linux Commands](https://github.com/jmspann/Linux_Commands/)
 - [SQL Queries]
 - [Filtering SQL Queries]
 - [Encryption Hashing and Decryption]
