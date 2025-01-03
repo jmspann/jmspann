@@ -7,7 +7,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Basic Linux Commands](https://github.com/jmspann/Linux_Commands/)
-- [Managing Files and Users in Linux]
+- [Managing Files and Users in Linux](https://github.com/jmspann/Linux_File_Management)
 - [SQL Queries]
 - [Filtering SQL Queries]
 - [Encryption Hashing and Decryption]
