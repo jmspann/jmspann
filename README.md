@@ -10,7 +10,7 @@
 - [Managing Files and Users in Linux](https://github.com/jmspann/Linux_File_Management)
 - [SQL Queries](https://github.com/jmspann/SQL_Queries)
 - [Filtering SQL Queries]
-- [Encryption Hashing and Decryption]
+- [Encryption Hashing and Decryption](https://github.com/jmspann/Encryption)
 - [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
 - [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Capture Packets with tcpdump](https://github.com/jmspann/tcpdump_Packet_Capture)
