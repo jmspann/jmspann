@@ -11,7 +11,7 @@
 - [SQL Queries](https://github.com/jmspann/SQL_Queries)
 - [Filtering SQL Queries]
 - [Encryption Hashing and Decryption]
-- [Examine Logs in Suricata]
+- [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
 - [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Capture Packets with tcpdump](https://github.com/jmspann/tcpdump_Packet_Capture)
 - [Performing a Query in Splunk & Chronicle](https://github.com/jmspann/Query_Splunk_Chronicle)
