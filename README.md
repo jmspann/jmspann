@@ -9,7 +9,7 @@
 - [Basic Linux Commands](https://github.com/jmspann/Linux_Commands/)
 - [Managing Files and Users in Linux](https://github.com/jmspann/Linux_File_Management)
 - [SQL Queries](https://github.com/jmspann/SQL_Queries)
-- [Filtering SQL Queries]
+- [Filtering SQL Queries](https://github.com/jmspann/Filtering_SQL_Queries)
 - [Encryption Hashing and Decryption](https://github.com/jmspann/Encryption)
 - [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
 - [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
