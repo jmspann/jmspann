@@ -12,7 +12,8 @@
 - [Filtering SQL Queries]
 - [Encryption Hashing and Decryption]
 - [Examine Logs in Suricata]
-- [Capture and Analyze Packets in Wireshark]
+- [Analyze Packets in Wireshark]
+- [Capture Packets with tcpdump]
 - [Performing a Query in Splunk & Chronicle]
 - [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
