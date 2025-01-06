@@ -16,7 +16,7 @@
 - [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>👨‍💻 Python Labs:</h2>
 
 - [Writing Conditional Statements](https://github.com/jmspann/Python_Conditional_Statements)
 - [Creating User-Defined Functions](https://github.com/jmspann/Python_User-Defined_Functions_)
@@ -27,7 +27,7 @@
 - [Import & Parse a Text File](https://github.com/jmspann/Python_Parse_Text_File)
 - [Create a Parsing Algorithm](https://github.com/jmspann/Python_Parsing_Algorithm)
 
-<h2>👨‍💻 SIEM Tools Projects:</h2>
+<h2>👨‍💻 SIEM Tools Labs:</h2>
 
 - [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Performing a Query in Splunk & Chronicle](https://github.com/jmspann/Query_Splunk_Chronicle)
