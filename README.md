@@ -18,6 +18,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
+- [Writing Conditional Statements](https://github.com/jmspann/Python_Conditional_Statements)
 - [Creating User-Defined Functions](https://github.com/jmspann/Python_User-Defined_Functions_)
 - [Working with  Functions](https://github.com/jmspann/Python_Functions)
 - [Indexing Strings](https://github.com/jmspann/Python_Strings_Indexing)
