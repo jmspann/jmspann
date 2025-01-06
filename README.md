@@ -18,8 +18,10 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
+- [Indexing Strings](https://github.com/jmspann/Python_Strings_Indexing)
+- [Develop an Algorithm](https://github.com/jmspann/Python_Algorithm)
 - [Import & Parse a Text File](https://github.com/jmspann/Python_Parse_Text_File)
-- 
+- [Create a Parsing Algorithm](https://github.com/jmspann/Python_Parsing_Algorithm)
 
 <h2>👨‍💻 SIEM Tools Projects:</h2>
 
