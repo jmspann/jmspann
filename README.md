@@ -4,7 +4,7 @@
 
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Linux & SQL Projects:</h2>
 
 - [Basic Linux Commands](https://github.com/jmspann/Linux_Commands/)
 - [Managing Files and Users in Linux](https://github.com/jmspann/Linux_File_Management)
@@ -12,11 +12,19 @@
 - [Filtering SQL Queries](https://github.com/jmspann/Filtering_SQL_Queries)
 - [Encryption Hashing and Decryption](https://github.com/jmspann/Encryption)
 - [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
-- [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Capture Packets with tcpdump](https://github.com/jmspann/tcpdump_Packet_Capture)
-- [Performing a Query in Splunk & Chronicle](https://github.com/jmspann/Query_Splunk_Chronicle)
 - [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
+
+<h2>👨‍💻 Python Projects:</h2>
+
+- [Import & Parse a Text File](https://github.com/jmspann/Python_Parse_Text_File)
+- 
+
+<h2>👨‍💻 SIEM Tools Projects:</h2>
+
+- [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
+- [Performing a Query in Splunk & Chronicle](https://github.com/jmspann/Query_Splunk_Chronicle)
 
 <h2>📄 Certifications</h2>
 
