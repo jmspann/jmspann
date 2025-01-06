@@ -20,6 +20,7 @@
 
 - [Indexing Strings](https://github.com/jmspann/Python_Strings_Indexing)
 - [Develop an Algorithm](https://github.com/jmspann/Python_Algorithm)
+- [Use Regular Expressions to Find Patterns](https://github.com/jmspann/Python_Regular_Expressions)
 - [Import & Parse a Text File](https://github.com/jmspann/Python_Parse_Text_File)
 - [Create a Parsing Algorithm](https://github.com/jmspann/Python_Parsing_Algorithm)
 
