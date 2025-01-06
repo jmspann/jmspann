@@ -18,6 +18,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
+- [Working with  Functions](https://github.com/jmspann/Python_Functions)
 - [Indexing Strings](https://github.com/jmspann/Python_Strings_Indexing)
 - [Develop an Algorithm](https://github.com/jmspann/Python_Algorithm)
 - [Use Regular Expressions to Find Patterns](https://github.com/jmspann/Python_Regular_Expressions)
