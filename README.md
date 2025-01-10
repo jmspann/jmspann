@@ -13,6 +13,7 @@
 - [Encryption Hashing and Decryption](https://github.com/jmspann/Encryption)
 - [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
 - [Capture Packets with tcpdump](https://github.com/jmspann/tcpdump_Packet_Capture)
+- [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
 - [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
 
@@ -29,7 +30,6 @@
 
 <h2>👨‍💻 SIEM Tools Labs:</h2>
 
-- [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
 - [Performing a Query in Splunk & Chronicle](https://github.com/jmspann/Query_Splunk_Chronicle)
 
 <h2>📄 Certifications</h2>
