@@ -14,8 +14,7 @@
 - [Examine Logs in Suricata](https://github.com/jmspann/Suricata_Logs)
 - [Capture Packets with tcpdump](https://github.com/jmspann/tcpdump_Packet_Capture)
 - [Analyze Packets in Wireshark](https://github.com/jmspann/Wireshark_Packet_Analysis)
-- [Conducting a Security Audit](https://github.com/jmspann/SecurityAuditLab/tree/main)
-- [Active Directory Home Lab](https://github.com/jmspann/LABURL2)
+
 
 <h2>👨‍💻 Python Labs:</h2>
 
