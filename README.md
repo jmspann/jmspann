@@ -4,6 +4,11 @@
 
 
 
+<h2>👨‍💻 Virtual Machine Projects:</h2>
+
+- [Creating Virtual HomeLab](https://github.com/jmspann/HomeLab)
+- [Active Directory Lab](https://github.com/jmspann/Active_Directory_VM)
+
 <h2>👨‍💻 Linux & SQL Projects:</h2>
 
 - [Basic Linux Commands](https://github.com/jmspann/Linux_Commands/)
